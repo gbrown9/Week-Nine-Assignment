@@ -1,6 +1,6 @@
 serve
 rival
-lovely
+lovely 
 caveat
 devote
 irving
