@@ -43,4 +43,4 @@ def main():
     fileName = 'wordList.txt'
     quizListName = 'quizword.txt'
     createDictionary(fileName, aDict)
-    findAnagrams(quizlistName, aDict)
+    findAnagrams(quizListName, aDict)
